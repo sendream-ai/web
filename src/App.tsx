@@ -155,8 +155,8 @@ function App() {
             <h2 className="team-title">✦ Sendream · 寄念 ✦</h2>
             <div className="team-members">
               <div className="team-member">
-                <div className="member-name">StoryHe</div>
-                <div className="member-role">UI/产品</div>
+                <div className="member-name">Starry</div>
+                <div className="member-role">UI/产品/音乐</div>
               </div>
               <div className="team-member">
                 <div className="member-name">MiaoMint</div>
